@@ -1,4 +1,4 @@
-# Juomapeli
+# Korttipeli
 Drinking game in Finnish, soon in English
 
 Tutusta juomapelistä tehty console-ohjelma.
